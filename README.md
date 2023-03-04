@@ -13,5 +13,3 @@
 [![CSS](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
 
 ## "Apaixonado Por Tecnologia, mas o IF As Vezes Me Faz Duvidar Disso🥲"
-
-![snake gif](https://github.com/nicolasnk11/nicolasnk11/blob/output/github-contribution-grid-snake.svg)
