@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4169E1&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Nicolas+Castro;Tenho+16+anos;Sou+Brasileiro;Seja+Bem+vindo(a)!+:%29)](https://git.io/typing-svg)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=nicolasnk11&bg_color=000000&color=1842e7&line=1842e7&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=nicolasnk11&theme=high-contrast)
 
 
 <p align="center">
