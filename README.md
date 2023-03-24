@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4169E1&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Nicolas+Castro;Tenho+16+anos;Sou+Brasileiro;Seja+Bem+vindo(a)!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Nicolas+Castro;Tenho+16+anos;Sou+Brasileiro;Seja+Bem+vindo(a)!+:%29)](https://git.io/typing-svg)
 
 ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=nicolasnk11&theme=high-contrast)
 
@@ -10,8 +10,8 @@
 </p>
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=nicolasnk11&show_icons=true&count_private=true&hide_border=true&title_color=0000FF&icon_color=0000FF&text_color=00008B&bg_color=0d1117" alt="Nicolas Castro github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasnk11&layout=compact&hide_border=true&title_0000FF&text_color=ff91a4&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=nicolasnk11&show_icons=true&count_private=true&hide_border=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0d1117" alt="Nicolas Castro github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasnk11&layout=compact&hide_border=true&title_FFFFFF&text_color=ff91a4&bg_color=0d1117" />
 </div>
 
 <div align="center"> 
@@ -39,7 +39,7 @@
 <br>
 </div>
   
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=footer"/>
   
   
   
