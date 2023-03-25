@@ -10,8 +10,8 @@
 </p>
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=nicolasnk11&show_icons=true&count_private=true&hide_border=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0d1117" alt="Nicolas Castro github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasnk11&layout=compact&hide_border=true&title_FFFFFF&text_color=ff91a4&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=nicolasnk11&show_icons=true&count_private=true&hide_border=true&title_color=F8F8FF&icon_color=F8F8FF&text_color=c9d1d9&bg_color=0d1117" alt="Nicolas-Castro github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasnk11&layout=compact&hide_border=true&title_color=F8F8FF&text_color=00bfbf&bg_color=000000" />
 </div>
 
 <div align="center"> 
