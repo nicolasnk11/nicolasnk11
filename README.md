@@ -2,15 +2,9 @@
 <img src="https://github.com/fnky/fnky/raw/fnky/img/welcome-fire.gif" alt="Welcome" align="center">
 </div>
 
-### A little more about me...  
 
 ```javascript
-const Nick = {
-  code: [Javascript, HTML, CSS, Python, Java],
-  skills: [play soccer, program, study, play soccer, play guitar],
-  where course: ["IFCE - Institute of Science and Technology of Ceará"]
-}
-console.log('education transforms')
+console.log("Olá, eu sou o Nicolas e tenho 16 anos. Seja bem vindo(a) ao meu github, espero que goste")
 ```
 
 
