@@ -6,20 +6,24 @@
 ```javascript
 console.log("Olá, eu sou o Nicolas e tenho 16 anos. Seja bem vindo(a) ao meu github, espero que goste")
 ```
-
-
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nicolasnk11&theme=dark&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
-
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=nicolasnk11&show_icons=true&count_private=true&hide_border=true&title_color=000000&icon_color=F8F8FF&text_color=c9d1d9&bg_color=0d1117" alt="Nicolas-Castro github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasnk11&layout=compact&hide_border=true&title_color=F8F8FF&text_color=00bfbf&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=nicolasnk11&show_icons=true&count_private=true&hide_border=true&title_color=F8F8FF&icon_color=F8F8FF&text_color=c9d1d9&bg_color=0d1117" alt="nicola github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasnk11&layout=compact&hide_border=true&title_color=F8F8FF&text_color=00bfbf&bg_color=000000" />
 </div>
 
+[![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nicolasnk11&theme=high-contrast)](https://github.com/nicolasnk11/github-readme-activity-graph)
+
+  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nicolasnk11&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
+
+
+
+
+
 <div align="center"> 
-<a href="https://instagram.com/nicolas.crw" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<a href="https://instagram.com/nicolazwl" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 <a href="https://www.youtube.com/channel/PR1NNCE TV" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
  </div>
   
