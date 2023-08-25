@@ -3,7 +3,7 @@
 </div>
 
 
-```javascript
+```java
 console.log("Hello!! My name is Nicolas, i'm 16 years old, welcome to my repository, I hope that your liked")
 ```
 <div align="center">  
